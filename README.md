@@ -1,6 +1,6 @@
 The repository contains the pre-trained automatic sleep staging model proposed by Cici and Vanessa.
 
-## How to run the samples:
+## How to get started:
 python predict.py
 
 ## Example results
