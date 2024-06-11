@@ -4,7 +4,9 @@ python predict.py
 ## Example results
 
 Each batch contains the classification of 20 30-second epochs. For example, a sample PSG recording looks like this in the first few time points:
+<br>
 <img width="771" alt="Screenshot 2024-06-11 at 22 11 03" src="https://github.com/Cicicai379/automatic-sleep-staging/assets/103560915/f88a253a-d31d-48fd-bdac-679b827d55ca">
+<br>
 (For a more detailed exploration of the PSG recording used here, see DEA.ipynb under the project root directory)
 
 the first 3 batches are predicted like this:
